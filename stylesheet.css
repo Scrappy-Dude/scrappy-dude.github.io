@@ -1,0 +1,14 @@
+stylesheet.css
+
+p { 
+    font-size: 20px;
+    color: blue;
+}   
+
+.lists {
+    color: green;
+}
+
+#pic_title {
+    font-size: larger;
+}
